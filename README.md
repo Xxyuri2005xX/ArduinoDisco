@@ -6,7 +6,7 @@ Automatic Disco system for Arduino
 il seguente progetto riguarda la realizzazione di una discoteca intelligente che adatta la sua pista in base al numero di persone.
 Le variabili e i commenti del progetto sono tutte in italiano.
 
-lo sketch arduino (da caricare attraverso il suo IDE) sarà disponibile in 2 versioni (riconoscibili dal tag -<iso>): 
+lo sketch arduino (da caricare attraverso il suo IDE) sarà disponibile in 2 versioni (riconoscibili dal tag "- iso"): 
 - Italiano - IT
 - Inglese - EN
 
@@ -15,7 +15,7 @@ lo sketch arduino (da caricare attraverso il suo IDE) sarà disponibile in 2 ver
 the following project is about making an intelligent disco that adapts its track according to the number of people.
 The project's variables and comments are all in italian.
 
-the arduino sketch (to be loaded through its IDE) will be available in 2 versions (recognizable by the -<iso> tag): 
+the arduino sketch (to be loaded through its IDE) will be available in 2 versions (recognizable by the - "iso" tag): 
 - Italian - IT
 - English - EN
 
