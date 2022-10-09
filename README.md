@@ -1,4 +1,4 @@
 # arduinoDisco
 Automatic Disco system for Arduino
 
-#COMING SOON: Code & explanations
+# COMING SOON: Code & explanations
