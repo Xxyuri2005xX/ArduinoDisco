@@ -19,7 +19,7 @@ the arduino sketch (to be loaded through its IDE) will be available in 2 version
 - Italian - IT
 - English - EN
 
-# COMING SOON: Code & explanations
+# COMING SOON: How to add new leds and implement in the code
 
 ## Tinkercad project
 
