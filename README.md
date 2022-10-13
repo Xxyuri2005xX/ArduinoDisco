@@ -33,7 +33,8 @@ Per implementare nuovi led RGB all'interno del progetto è necessario seguire i 
   //led rgb X
   int redX = x;
   int blueX = x;
-  int greenX = x;```
+  int greenX = x;
+  ```
 - Successivamente bisogna dichiarare i 3 nuovi pin come OUTPUT nel setup dello sketch, quindi è necessario incollare il seguente frammento di codice sotto l'ultimo pinMode che dichiara OUTPUT prima di quelli di input, in cui X è il numero identificativo assegnato sopra:
   ```yml
   pinMode(redX, OUTPUT);
@@ -58,7 +59,8 @@ To implement new RGB leds within the project, the following steps must be follow
   //led rgb X
   int redX = x;
   int blueX = x;
-  int greenX = x;```
+  int greenX = x;
+  ```
 - Next you need to declare the 3 new pins as OUTPUT in the sketch setup, then you need to paste the following code snippet under the last pinMode that declares OUTPUT before the input ones, where X is the ID number assigned above:
   ```yml
   pinMode(redX, OUTPUT);
