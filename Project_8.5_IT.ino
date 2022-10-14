@@ -42,6 +42,9 @@ void loop() {
   if(digitalRead(button2)==LOW) {
     delay(200);
     persone--; //decremento persone
+    if(persone<0) {
+      persone=0;
+    }
   }
   //controllo differenza tempo col tempo della velocità
   if((timeA - time0) >= ritardo) {
