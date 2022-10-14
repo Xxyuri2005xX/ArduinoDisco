@@ -42,6 +42,9 @@ void loop() {
   if(digitalRead(button2)==LOW) {
     delay(200);
     people--; //people decrease
+    if(people<0) {
+      people=0;
+    }
   }
   //check time difference with speed time
   if((timeA - time0) >= late) {
