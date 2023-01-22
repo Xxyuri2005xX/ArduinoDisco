@@ -1,4 +1,9 @@
-# arduinoDisco
+# ArduinoDisco
+
+Lingue disponibili:
+[![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.it.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.md)
+---
 
 ![ItFlag](https://user-images.githubusercontent.com/84080587/194774644-66c6fa81-5d29-4b5c-a49f-c68afc953cde.png)
 
