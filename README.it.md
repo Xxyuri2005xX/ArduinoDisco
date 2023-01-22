@@ -11,9 +11,7 @@ lo sketch arduino (da caricare attraverso il suo IDE) sarà disponibile in 2 ver
 
 ![Tinkercad](https://user-images.githubusercontent.com/84080587/194775403-9f35a7ad-79f5-4fea-b5dc-288bc9b9d3bb.PNG)
 
-## More led implementation
-
-![ItFlag](https://user-images.githubusercontent.com/84080587/194774644-66c6fa81-5d29-4b5c-a49f-c68afc953cde.png)
+## Implementazione di più led
 
 Per implementare nuovi led RGB all'interno del progetto è necessario seguire i seguenti step:
 - Implementare il nuovo led nel circuito (**!SONO NECESSARI 3 PIN MUNITI DI PWM PER IL FUNZIONAMENTO E UN COLLEGAMENTO AI 5V/MASSA IN BASE AL TIPO DI LED USATO**), per capire come collegare il led è sufficiente osservare lo schema tinkercad riportato sopra
