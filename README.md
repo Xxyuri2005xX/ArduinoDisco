@@ -1,4 +1,4 @@
-# arduinoDisco
+# ArduinoDisco
 
 Available Languages:
 
