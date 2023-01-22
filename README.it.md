@@ -1,6 +1,7 @@
 # ArduinoDisco
 
 Lingue disponibili:
+
 [![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.it.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.md)
 ---
@@ -13,6 +14,8 @@ Le variabili e i commenti del progetto sono tutte in italiano.
 lo sketch arduino (da caricare attraverso il suo IDE) sarà disponibile in 2 versioni (riconoscibili dal tag "- iso"): 
 - Italiano - IT
 - Inglese - EN
+
+## Progetto Tinkercad
 
 ![Tinkercad](https://user-images.githubusercontent.com/84080587/194775403-9f35a7ad-79f5-4fea-b5dc-288bc9b9d3bb.PNG)
 
