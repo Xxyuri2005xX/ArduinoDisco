@@ -13,7 +13,7 @@ int button1 = 8; //people join count
 int button2 = 7; //people leave count
 int people=0, late; //people counter and led delay
 int debug=0; //variable to enable debugging (0 -> no, 1 -> yes)
-unsigned long time0, timeA;
+unsigned long time0, timeA; //time count variables
 
 void setup() {
   //setup code
@@ -25,7 +25,7 @@ void setup() {
   pinMode(green2, OUTPUT);
   pinMode(button1, INPUT);
   pinMode(button2, INPUT);
-  Serial.begin(9600);
+  Serial.begin(9600); //serial monitor initialization
 }
 
 void loop() {
@@ -42,7 +42,7 @@ void loop() {
   if(digitalRead(button2)==LOW) {
     delay(200);
     people--; //people decrease
-    if(people<0) {
+    if(people<0) { //negativity check (if people is less than 0 set value to 0)
       people=0;
     }
   }
@@ -73,7 +73,12 @@ void loop() {
 /*
  * RGB led function for color
  * Variables structure:
- * red led pin, blue led pin, green led pin, red led value, blue led value, green led value
+ * @param redPin red led pin
+ * @param bluePin blue led pin
+ * @param greenPin green led pin
+ * @param red red led intensity value
+ * @param green green led intensity value
+ * @param blue blue led intensity value
 */
 void rgbLedDisplay(int redPin, int bluePin, int greenPin, 
                    int red, int green, int blue) {
