@@ -3,7 +3,7 @@
 Available Languages:
 
 [![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.it.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.md)
 ---
 
 ![EnFlag](https://user-images.githubusercontent.com/84080587/194774673-78c41fb4-463f-4ccd-86cf-5b8cb443272e.png)
