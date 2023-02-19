@@ -2,8 +2,8 @@
 
 Lingue disponibili:
 
-[![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/v1/README.it.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/v1/README.en.md)
+[![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.it.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Xxyuri2005xX/ArduinoDisco/blob/master/README.en.md)
 ---
 
 ![ItFlag](https://user-images.githubusercontent.com/84080587/194774644-66c6fa81-5d29-4b5c-a49f-c68afc953cde.png)
@@ -18,6 +18,26 @@ lo sketch arduino (da caricare attraverso il suo IDE) sarà disponibile in 2 ver
 ## Progetto Tinkercad
 
 ![Tinkercad](https://user-images.githubusercontent.com/84080587/194775403-9f35a7ad-79f5-4fea-b5dc-288bc9b9d3bb.PNG)
+
+## Prossimamente
+- ArduinoDisco v2
+- ArduinoDisco v3
+
+Caratteristiche delle versioni:
+|  | ArduinoDisco v1 | ArduinoDisco v2 | ArduinoDisco v3 |
+| --------------- | --------------- | --------------- | --------------- |
+| Supporto Web:| ❌ | ❔ | ✅ |
+| Rilascio: | 09/10/2022  | PRESTO  | N/A |
+| Lettura musica:| ❌ | ✅ | ✅ |
+| Conteggio persone aggiornato:| ❌ | ✅ | ✅ |
+
+Legenda:
+- ❌: No
+- ❔: In valutazione
+- ✅: Si
+
+## FAQ
+Qui potete trovare alcune domande frequenti.
 
 ## Implementazione di più led
 
