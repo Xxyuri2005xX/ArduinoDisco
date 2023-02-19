@@ -20,7 +20,7 @@ the arduino sketch (to be loaded through its IDE) will be available in 2 version
 ![Tinkercad](https://user-images.githubusercontent.com/84080587/194775403-9f35a7ad-79f5-4fea-b5dc-288bc9b9d3bb.PNG)
 
 
-## Coming SOON:
+## Coming Soon:
 - ArduinoDisco v2
 - ArduinoDisco v3
 
@@ -32,10 +32,10 @@ Version features:
 | Music Reading:| ❌ | ✅ | ✅ |
 | Updated People count:| ❌ | ✅ | ✅ |
 
-legend:
-- ❌: no
-- ❔: evaluation
-- ✅: yes
+Legend:
+- ❌: No
+- ❔: Evaluation
+- ✅: Yes
 
 ## FAQ
 Here you can find some frequently asked questions.
