@@ -1,3 +1,9 @@
+/**
+  Author: Yuri
+  Date: 09/10/2022
+  Version: v1
+*/
+
 //led rgb 1
 int red1 = 9; //red pin RGB led 1
 int blue1 = 10; //blue pin RGB led 1
