@@ -2,6 +2,7 @@
   Author: Yuri
   Date: 09/10/2022
   Version: v1
+  Copyright © 2022-2023 Xx_yuri2005_xX
 */
 
 //led rgb 1
